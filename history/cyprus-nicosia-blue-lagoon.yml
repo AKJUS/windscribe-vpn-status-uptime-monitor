@@ -1,7 +1,7 @@
 url: https://cy-002.whiskergalaxy.com:6363/latency
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-30T11:50:29.822Z
+status: up
+code: 200
+responseTime: 952
+lastUpdated: 2024-10-30T12:00:20.460Z
 startTime: 2024-08-25T03:01:11.049Z
 generator: Upptime <https://github.com/upptime/upptime>
