@@ -1,7 +1,7 @@
 url: https://jp-009.whiskergalaxy.com:6363/latency
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-20T10:24:03.653Z
+status: up
+code: 200
+responseTime: 443
+lastUpdated: 2024-11-20T10:59:55.654Z
 startTime: 2024-08-25T03:04:04.126Z
 generator: Upptime <https://github.com/upptime/upptime>
