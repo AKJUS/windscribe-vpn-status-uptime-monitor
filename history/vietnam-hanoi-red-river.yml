@@ -1,7 +1,7 @@
 url: https://vn-002.whiskergalaxy.com:6363/latency
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-21T13:53:53.130Z
+status: up
+code: 200
+responseTime: 894
+lastUpdated: 2024-11-21T14:04:17.308Z
 startTime: 2024-08-25T03:04:18.409Z
 generator: Upptime <https://github.com/upptime/upptime>
