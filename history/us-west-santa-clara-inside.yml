@@ -1,7 +1,7 @@
 url: https://us-west-050.whiskergalaxy.com:6363/latency
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-21T12:50:32.760Z
+status: up
+code: 200
+responseTime: 240
+lastUpdated: 2024-11-21T13:18:22.522Z
 startTime: 2024-08-25T03:00:59.948Z
 generator: Upptime <https://github.com/upptime/upptime>
