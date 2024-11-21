@@ -1,7 +1,7 @@
 url: https://dk-005.whiskergalaxy.com:6363/latency
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-21T09:24:18.123Z
+status: up
+code: 200
+responseTime: 441
+lastUpdated: 2024-11-21T10:00:25.674Z
 startTime: 2024-08-25T03:01:13.367Z
 generator: Upptime <https://github.com/upptime/upptime>
