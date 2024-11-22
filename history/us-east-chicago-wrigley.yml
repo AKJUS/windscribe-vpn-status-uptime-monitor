@@ -1,7 +1,7 @@
 url: https://us-east-128.whiskergalaxy.com:6363/latency
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-22T08:44:45.187Z
+status: up
+code: 200
+responseTime: 231
+lastUpdated: 2024-11-22T08:55:51.245Z
 startTime: 2024-08-25T03:00:48.227Z
 generator: Upptime <https://github.com/upptime/upptime>
