@@ -1,7 +1,7 @@
 url: https://us-central-108.whiskergalaxy.com:6363/latency
-status: up
-code: 200
-responseTime: 171
-lastUpdated: 2024-11-25T23:21:16.456Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-11-26T13:47:47.416Z
 startTime: 2024-08-25T03:00:42.156Z
 generator: Upptime <https://github.com/upptime/upptime>
