@@ -1,7 +1,7 @@
 url: https://at-006.whiskergalaxy.com:6363/latency
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-27T18:59:11.471Z
+status: up
+code: 200
+responseTime: 639
+lastUpdated: 2024-11-27T19:40:58.152Z
 startTime: 2024-08-25T03:01:07.339Z
 generator: Upptime <https://github.com/upptime/upptime>
