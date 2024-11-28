@@ -1,7 +1,7 @@
 url: https://us-east-117.whiskergalaxy.com:6363/latency
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-28T19:27:00.382Z
+status: up
+code: 200
+responseTime: 98
+lastUpdated: 2024-11-28T19:38:11.555Z
 startTime: 2024-08-25T03:00:52.560Z
 generator: Upptime <https://github.com/upptime/upptime>
