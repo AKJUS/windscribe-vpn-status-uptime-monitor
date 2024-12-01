@@ -1,7 +1,7 @@
 url: https://au-015.whiskergalaxy.com:6363/latency
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-01T14:48:33.399Z
+status: up
+code: 200
+responseTime: 828
+lastUpdated: 2024-12-01T15:20:19.512Z
 startTime: 2024-08-25T03:03:15.865Z
 generator: Upptime <https://github.com/upptime/upptime>
