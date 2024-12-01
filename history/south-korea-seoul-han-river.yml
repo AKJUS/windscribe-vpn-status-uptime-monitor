@@ -1,7 +1,7 @@
 url: https://kr-010.whiskergalaxy.com:6363/latency
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-01T08:48:40.360Z
+status: up
+code: 200
+responseTime: 767
+lastUpdated: 2024-12-01T08:58:41.806Z
 startTime: 2024-08-25T03:04:12.457Z
 generator: Upptime <https://github.com/upptime/upptime>
