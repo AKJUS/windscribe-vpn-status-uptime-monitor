@@ -1,7 +1,7 @@
 url: https://ca-west-021.whiskergalaxy.com:6363/latency
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-28T13:37:03.107Z
+status: up
+code: 200
+responseTime: 278
+lastUpdated: 2024-12-28T15:16:01.731Z
 startTime: 2024-08-25T03:01:04.930Z
 generator: Upptime <https://github.com/upptime/upptime>
